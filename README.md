@@ -3,10 +3,10 @@
 The repository contains a small-project about human segmatation and a report.
 ##The Usage of the Model
 ####If you want to try this model, please follow these steps:<br>
-* i. clone the repository and find the dataset from the instructions in "Report of the First MVIG Training Section";<br>
-* ii. put the dataset in the directory of "small-project";<br>
-* iii. run the "demo.lua" to train the model;<br>
-* iv. if you want to test the model, you need to modify the "demo.lua": <br>
+* i. Clone the repository and find the dataset from the instructions in "Report of the First MVIG Training Section";<br>
+* ii. Put the dataset in the directory of "small-project";<br>
+* iii. Run the "demo.lua" to train the model;<br>
+* iv. If you want to test the model, you need to modify the "demo.lua": <br>
       * First, you should remove all comments. 
       * Then, change the whole line into comments where you can find a symbol like "--test".<br>
       
