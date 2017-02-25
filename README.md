@@ -1,6 +1,6 @@
 # deep-learning
 ##Content
-The repository contains a small-project about human segmatation and a report.
+The repository contains a report and a small-project about human segmatation.
 ##The Usage of the Model
 ####If you want to try this model, please follow these steps:<br>
 * i. Clone the repository and find the dataset from the instructions in "Report of the First MVIG Training Section";<br>
