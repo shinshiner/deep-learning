@@ -8,6 +8,6 @@ The repository contains a report and a small-project about human segmatation.
 * Run the "demo.lua" to train the model;<br>
 * If you want to test the model, you need to modify the "demo.lua": <br>
       * Remove all comments. 
-      * Change the whole line into comments where you can find a symbol like "--test".<br>
+      * Change the whole line into comments where you can find a symbol like "test".<br>
       
 Tip: if you don't want to train this model by yourself, you can download the trained-model from: ??. Put it in the directory of "small-project", you can start to test.
