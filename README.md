@@ -10,4 +10,5 @@ The repository contains a report and a small-project about human segmatation.
       * Remove all comments. 
       * Change the whole line into comments where you can find a symbol like "test".<br>
       
-Tip: if you don't want to train this model by yourself, you can download the trained-model from: ??. Put it in the directory of "small-project", you can start to test.
+Tip: if you don't want to train this model by yourself, you can download the trained-model from: http://pan.baidu.com/s/1gfJtYGb
+. Put it in the directory of "small-project", you can start to test.
