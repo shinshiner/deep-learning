@@ -4,6 +4,7 @@ The repository contains a report and a small-project about human segmatation.
 ##About the Report
 * In this report, I conclude my learning experience in deep learning, and write down some my own understands on some important topics and papers.
 * As a report, I do not add graphs, if you find it boring to read the words, you can refer to the "references" part to go through the original paper, the excellent graphs may help you understand my report easier.
+
 ##The Usage of the Model
 ####If you want to try this model, please follow these steps:<br>
 * Clone the repository and find the dataset from the instructions in "Report of the First MVIG Training Section";<br>
